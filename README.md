@@ -1,6 +1,6 @@
 CSV File Processing Manual
 
-To process CSV files and generate an output CSV file, please follow these steps:
+#### To process CSV files and generate an output CSV file, please follow these steps:
 
 Ensure that all the CSV files you want to process are located in the root directory of the script.
 
@@ -9,7 +9,9 @@ Open a terminal or command prompt.
 Navigate to the directory where the script is located using the cd command. For example:
 
 Run the script using the Node.js runtime by executing the following command:
-```node script.js
+
+```
+$ Hello World
 ```
 
 Wait for the script to process the CSV files and generate the output CSV file. The script will provide feedback in the terminal, indicating the successful creation of the output file.
